@@ -1,0 +1,9 @@
+
+a {color:red; padding:10px 5px;}
+body {background-color: beige}
+header {background-color: azure;margin: 0%; padding: 15px 10px;}
+p {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: large;}
+#p1 {font-weight: 500; color: blueviolet;}
+nav {background-color: darkgray;padding: 10px 40px; position: absolute;}
+#a1 {color: blue; font-weight: 800; padding: 10px 40px; background-color: aquamarine;}
+#a1 a:hover {background: #dd2b2b; color: darkcyan;}
